@@ -6,7 +6,7 @@ description: "Hello World"
 
 Hello world, this is a blog post.
 
-Here's some epic code
+Here's some epic code!
 ```rust
 fn main() {
     let a = 1;
