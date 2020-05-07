@@ -1,0 +1,8 @@
+on: push
+jobs:
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+       echo "::add-mask::${{ secrets.DEPLOY_HOOK }}"
+       curl --silent --show-error --fail -X POST -d {} ${{ secrets.DEPLOY_HOOK }}
