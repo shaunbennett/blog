@@ -1,7 +1,7 @@
 ---
-title: The Great Ocean Adventure
+title: My Great Ocean Adventure
 date: "2020-06-02T01:01:01Z"
-description: "A short story about my adventures as a tourist in Australia"
+description: "A short story about my adventures as a tourist in Australia."
 ---
 
 Back in 2016, I took a much-needed break from progressing on my university degree to work full-time at [Mineplex](https://www.mineplex.com/) - a multiplayer [Minecraft](https://en.wikipedia.org/wiki/Minecraft) network, and spend the rest of my time travelling. I enjoyed my time at Mineplex - working remotely with an extremely talented team based all around the world, we all quickly became friends as we spent time chatting on Slack and playing games together.
